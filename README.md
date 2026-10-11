@@ -18,6 +18,12 @@ I enjoy solving problems, building practical applications, and learning technolo
 Travira — Team CodeSphere
 
 Collaborative hackathon project developed for the Nirman Hackathon.
+My Role: AI Integration and Chatbot/NLP
+
+- Worked on the React chatbot component for natural-language interaction.
+- Contributed to connecting the chatbot with the AI service and chat APIs.
+
+Project Repository: "Travira-Team-CodeSphere" (https://github.com/Raiki-rani/Travira-Team-CodeSphere)
 
 Utkarsh Enterprises
 
