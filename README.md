@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Raiki Rani 👋
 
-<!--
-**Raiki-rani/Raiki-rani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+💻 Aspiring Software Engineer | Full-Stack Development Enthusiast
 
-Here are some ideas to get you started:
+I enjoy solving problems, building practical applications, and learning technologies that help turn ideas into useful software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Skills
+
+- Programming: Java, Python
+- Web Development: HTML, CSS, JavaScript, React
+- Backend: Spring Boot
+- Database: MySQL, SQL
+- Tools: Git, GitHub, VS Code
+
+🚀 Projects
+
+Travira — Team CodeSphere
+
+Collaborative hackathon project developed for the Nirman Hackathon.
+
+Utkarsh Enterprises
+
+A web-based project focused on supporting business operations.
+
+📚 Currently Learning
+
+- Data Structures and Algorithms
+- Core Java and problem-solving
+- Full-Stack Development
+
+🎯 Career Goal
+
+To grow as a software engineer by building meaningful projects, strengthening technical fundamentals, and contributing to real-world applications.
+
+🤝 Connect With Me
+
+- GitHub: "Raiki-rani" (https://github.com/Raiki-rani)
